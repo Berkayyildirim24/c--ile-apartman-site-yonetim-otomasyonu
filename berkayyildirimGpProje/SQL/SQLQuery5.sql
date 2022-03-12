@@ -1,0 +1,27 @@
+USE [Siteyönetim]
+GO
+
+/****** Object:  Table [dbo].[Users]    Script Date: 29.05.2019 19:50:43 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE Users
+
+(
+	ID int IDENTITY(1,1) NOT NULL,
+	Name nvarchar(50) NOT NULL,
+	LastName nvarchar(50) NOT NULL,
+	UserName nvarchar(50) NOT NULL,
+	UPassword nvarchar(20) NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+

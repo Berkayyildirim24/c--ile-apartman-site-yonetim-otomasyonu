@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Site Yönetim Uygulaması", "_Site Yönetim Uygulaması\_Site Yönetim Uygulaması.csproj", "{0A69F7B1-5A06-47FE-A12B-0D89BA4185CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLibrary", "DataLibrary\DataLibrary.csproj", "{A95FC24B-027B-482F-8202-CFAA645EB039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A69F7B1-5A06-47FE-A12B-0D89BA4185CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A69F7B1-5A06-47FE-A12B-0D89BA4185CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A69F7B1-5A06-47FE-A12B-0D89BA4185CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A69F7B1-5A06-47FE-A12B-0D89BA4185CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A95FC24B-027B-482F-8202-CFAA645EB039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A95FC24B-027B-482F-8202-CFAA645EB039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A95FC24B-027B-482F-8202-CFAA645EB039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A95FC24B-027B-482F-8202-CFAA645EB039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9C30121-55E9-423A-9630-B4E213D7F6DC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,94 @@
+C:\Users\lenovo\source\repos\_Site Yönetim Uygulaması\_Site Yönetim Uygulaması\bin\Debug\_Site Yönetim Uygulaması.exe.config
+C:\Users\lenovo\source\repos\_Site Yönetim Uygulaması\_Site Yönetim Uygulaması\bin\Debug\_Site Yönetim Uygulaması.exe
+C:\Users\lenovo\source\repos\_Site Yönetim Uygulaması\_Site Yönetim Uygulaması\bin\Debug\_Site Yönetim Uygulaması.pdb
+C:\Users\lenovo\source\repos\_Site Yönetim Uygulaması\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\_Site Yönetim Uygulaması\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmAnaForm.resources
+C:\Users\lenovo\source\repos\_Site Yönetim Uygulaması\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmAnaSayfa.resources
+C:\Users\lenovo\source\repos\_Site Yönetim Uygulaması\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.Properties.Resources.resources
+C:\Users\lenovo\source\repos\_Site Yönetim Uygulaması\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\_Site Yönetim Uygulaması\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\_Site Yönetim Uygulaması\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.exe
+C:\Users\lenovo\source\repos\_Site Yönetim Uygulaması\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.pdb
+C:\Users\lenovo\source\repos\_Site Yönetim Uygulaması\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmBloklar.resources
+C:\Users\lenovo\source\repos\_Site Yönetim Uygulaması\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.ABlokDaireler.resources
+C:\Users\lenovo\source\repos\_Site Yönetim Uygulaması\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.BBlokDaireler.resources
+C:\Users\lenovo\source\repos\_Site Yönetim Uygulaması\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.CBlokDaireler.resources
+C:\Users\lenovo\source\repos\_Site Yönetim Uygulaması\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.DBlokDaireler.resources
+C:\Users\lenovo\source\repos\_Site Yönetim Uygulaması\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.Kayit.resources
+C:\Users\lenovo\source\repos\_Site Yönetim Uygulaması\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmBorclar.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\bin\Debug\_Site Yönetim Uygulaması.exe.config
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\bin\Debug\_Site Yönetim Uygulaması.exe
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\bin\Debug\_Site Yönetim Uygulaması.pdb
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.ABlokDaireler.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.BBlokDaireler.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.CBlokDaireler.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.DBlokDaireler.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmAnaForm.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmAnaSayfa.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmBloklar.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmBorclar.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmGiris.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.Kayit.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.Properties.Resources.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.exe
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.pdb
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmKullanici.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.borc.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\bin\Debug\_Site Yönetim Uygulaması.exe.config
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\bin\Debug\_Site Yönetim Uygulaması.exe
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\bin\Debug\_Site Yönetim Uygulaması.pdb
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.ABlokDaireler.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.BBlokDaireler.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.borc.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.CBlokDaireler.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.DBlokDaireler.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmAnaForm.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmAnaSayfa.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmBloklar.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmBorclar.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmGiris.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmKullanici.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.Kayit.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.Properties.Resources.resources
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.exe
+C:\Users\lenovo\Desktop\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.ABlokDaireler.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.BBlokDaireler.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.borc.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.CBlokDaireler.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.DBlokDaireler.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmAnaForm.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmAnaSayfa.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmBloklar.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmBorclar.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmGiris.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.Frmgrs.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmKullanici.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.Kayit.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.exe
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site Yönetim Uygulaması.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\bin\Debug\_Site Yönetim Uygulaması.exe.config
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\bin\Debug\_Site Yönetim Uygulaması.exe
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\bin\Debug\_Site Yönetim Uygulaması.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmMesajlar.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.Personel.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.KullanıcıMesaj.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.Faturalar.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmGelirGider.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmGaleri.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmOdalar.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.Frmmutfak.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.Frmdismekan.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmLavabo.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.frmode.resources
+C:\Users\lenovo\Desktop\Yeni klasör (5)\_Site Yönetim Uygulaması - Kopya - Kopya - Kopya\_Site Yönetim Uygulaması\obj\Debug\_Site_Yönetim_Uygulaması.FrmYonetici.resources
